@@ -9,25 +9,25 @@ AI 行业的兴起和价值：到 2030 年，据预测，人工智能每年将�
 
 未来会有更多的价值在软件行业之外，例如零售、电商、旅游、自动化制造等行业。
 
-![https://github.com/tyronemaxi/ai_notes/blob/master/ai_for_everyone/part1.png](part1.png)
+![https://github.com/tyronemaxi/ai_notes/blob/master/ai_for_everyone/part1.png](../2025/02/04/part1.png)
 
 AI 实际上可以细分为两个独立的概念：
 
 - 弱人工智能 —— ANI （artificial narrow intelligence）E.g., smart speaker, self-driving car web search, AI in farming and factories
 - 通用人工智能 —— AGI （artificial geneal intelligence）Do anything a human can do
 
-![https://github.com/tyronemaxi/ai_notes/blob/master/ai_for_everyone/img.png](img.png)
+![https://github.com/tyronemaxi/ai_notes/blob/master/ai_for_everyone/img.png](../2025/02/04/img.png)
 
 ### 机器学习(what is AI?)
 
 #### 监督学习（supervised learning)
 > 通过使用带有标签的的训练数据（从输入 A 到输入 B的映射关系）来训练模型。训练数据包括输入特征和对应的输出标签，模型通过学习这些数据来预测新输入的输出。
 
-![https://github.com/tyronemaxi/ai_notes/blob/master/ai_for_everyone/img_1.png](img_1.png)
+![https://github.com/tyronemaxi/ai_notes/blob/master/ai_for_everyone/img_1.png](../2025/02/04/img_1.png)
 
 例如大模型 （LLMs）就是采用监督学习（A->B）来重复预测下一个词实现的（LLMs are build by using supervised learning(A->B) to repeatedly predict the next word.）
 
-![https://github.com/tyronemaxi/ai_notes/blob/master/ai_for_everyone/img_2.png](img_2.png)
+![https://github.com/tyronemaxi/ai_notes/blob/master/ai_for_everyone/img_2.png](../2025/02/04/img_2.png)
 
 #### 监督学习的应用场景
 - 垃圾邮件过滤：输入的是邮件的内容，输出是判断是否为垃圾邮件（0/1）
@@ -44,7 +44,7 @@ AI 实际上可以细分为两个独立的概念：
 - 神经网络和深度学习研究的崛起。
 - 算力的提升：GPU 等智能硬件
 
-![https://github.com/tyronemaxi/ai_notes/blob/master/ai_for_everyone/img_3.png](img_3.png)
+![https://github.com/tyronemaxi/ai_notes/blob/master/ai_for_everyone/img_3.png](../2025/02/04/img_3.png)
 
 #### 高性能 AI 系统的关键因素
 - 大量的训练数据：通常情况下，数据越多，模型的性能通常越好
@@ -63,7 +63,7 @@ AI 实际上可以细分为两个独立的概念：
 - 数据是 AI 系统的核心燃料，通常以表格（Excel）或非结构化的形式（图片/音频）存在
 
 
-![https://github.com/tyronemaxi/ai_notes/blob/master/ai_for_everyone/img_4.png](img_4.png)
+![https://github.com/tyronemaxi/ai_notes/blob/master/ai_for_everyone/img_4.png](../2025/02/04/img_4.png)
 
 ### 数据获取的方式（how to acquire data）
 - 手工标注（Manual labeling）
@@ -72,13 +72,13 @@ AI 实际上可以细分为两个独立的概念：
   - 机器行为数据（如工厂设备温度、压力来判断是否故障）
 - 开源数据/合作伙伴（如工厂提供设备历史数据）
 
-![https://github.com/tyronemaxi/ai_notes/blob/master/ai_for_everyone/img_5.png](img_5.png)
+![https://github.com/tyronemaxi/ai_notes/blob/master/ai_for_everyone/img_5.png](../2025/02/04/img_5.png)
 
 ### 有用或者无用的数据（Use and mis-use of data）
 不要本末倒置的使用数据（Don't throw data at an AI team and assume it will be valuable.）
 
 ### 数据的常见误区
-![https://github.com/tyronemaxi/ai_notes/blob/master/ai_for_everyone/img_6.png](img_6.png)
+![https://github.com/tyronemaxi/ai_notes/blob/master/ai_for_everyone/img_6.png](../2025/02/04/img_6.png)
 
 - 过度投资 IT 基础设施
   - 错误：先花多年时间完善数据，再启动 AI.
@@ -121,7 +121,7 @@ AI 实际上可以细分为两个独立的概念：
 > - 输出：商业决策支持（如幻灯片报告、产品优化建议）
 > - 应用案例：发现“三卧室房屋溢价”或“翻新房屋增值 15%” 等规律
 
-![https://github.com/tyronemaxi/ai_notes/blob/master/ai_for_everyone/img_7.png](img_7.png)
+![https://github.com/tyronemaxi/ai_notes/blob/master/ai_for_everyone/img_7.png](../2025/02/04/img_7.png)
 
 
 
