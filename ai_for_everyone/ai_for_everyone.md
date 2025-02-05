@@ -1,4 +1,4 @@
-# AI For Everyone
+# AI For Everyone —— week1
 本文总结于吴恩达视频课程 《ai for everyone》
 refs: https://www.coursera.org/learn/ai-for-everyone/home/week/1
 
@@ -164,9 +164,11 @@ AI 实际上可以细分为两个独立的概念：
 
 ### 更多的例子
 - 自动驾驶
+
 ![](https://raw.githubusercontent.com/tyronemaxi/ai_notes/master/ai_for_everyone/imgs/img_14.png)
 
 - X 射线胸透图判断患者是否患有肺炎
+
 ![](https://raw.githubusercontent.com/tyronemaxi/ai_notes/master/ai_for_everyone/imgs/img_15.png)
 
 ### 机器学习的优缺点（strengths and weaknessed of machine learning）
@@ -195,6 +197,7 @@ AI 实际上可以细分为两个独立的概念：
 **营销 -> 认知度**
 
 ![](https://raw.githubusercontent.com/tyronemaxi/ai_notes/master/ai_for_everyone/imgs/img_16.png)
+
 神经网络的神奇之处就是在于当你使用神经网络构建一个机器学习系统时，你只需要给他输入 A 和 B 就可以了，它自己会把中间过程弄清楚。
 
 ![](https://raw.githubusercontent.com/tyronemaxi/ai_notes/master/ai_for_everyone/imgs/img_17.png)
