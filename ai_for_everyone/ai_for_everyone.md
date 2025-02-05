@@ -3,7 +3,7 @@
 refs: https://www.coursera.org/learn/ai-for-everyone/home/week/1
 
 bilibili: https://www.bilibili.com/video/BV1yC4y127uj?vd_source=275f6919f1e622d67ac6c138d0967924&spm_id_from=333.788.player.switch&p=17
-
+[toc]
 ## 什么是人工智能？
 AI 行业的兴起和价值：到 2030 年，据预测，人工智能每年将创造 13 万亿美元的价值
 
