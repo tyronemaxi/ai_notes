@@ -122,6 +122,47 @@ AI 实际上可以细分为两个独立的概念：
 > - 应用案例：发现“三卧室房屋溢价”或“翻新房屋增值 15%” 等规律
 
 ![](https://raw.githubusercontent.com/tyronemaxi/ai_notes/master/ai_for_everyone/imgs/img_7.png)
+#### 神经网络
+由人工神经元组成的数学方程，输入 A（房屋尺寸、卧室数量、是否翻新等）-> 输出 B(价格)，类比人类大脑（仅受生物神经元启发）
+如下图所示：
+![](https://raw.githubusercontent.com/tyronemaxi/ai_notes/master/ai_for_everyone/imgs/img_8.png)
+#### AI 工具
+![](https://raw.githubusercontent.com/tyronemaxi/ai_notes/master/ai_for_everyone/imgs/img_9.png)
+
+## 怎样成为一个互联网公司（what makes an AI company?）
+### 互联网公司 vs. AI 公司
+#### 互联网公司
+- A/B testing
+- 更短的迭代周期（short iteration time）
+- 产品的决策由产品和工程师决定（Decision making pushed down to engineers and other specialized roles）
+
+#### AI 公司
+- 统一的数据获取策略和数仓搭建（Strategy data acquisition && Unidied data warehouse）
+- AI 自动化能力，将简单重复性工作通过 AI 自动化（Pervasive automation）
+- 新角色和分工（New roles(e.g., MLE) and division of labor）
+![](https://raw.githubusercontent.com/tyronemaxi/ai_notes/master/ai_for_everyone/imgs/img_10.png)
+
+#### AI 转型范式（AI Transformation）
+- **启动试点项目来获得势头（Execute pilot projects to gain momentum）**
+- **建立一个内部 AI 团队(Build an in-house Ai team)**
+- **提供广泛的人工智能培训（Provide broad AI training）**
+- **制定一个人工智能策略（Develop an AI strategy）**
+- **保持内外沟通的一致, 包含从工程师到产品，投资人等等（Develop internal and external communications)**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
