@@ -151,21 +151,50 @@ AI 实际上可以细分为两个独立的概念：
 
 ![](https://raw.githubusercontent.com/tyronemaxi/ai_notes/master/ai_for_everyone/imgs/img_11.png)
 
+## 机器学习能做什么 && 不能做什么（what machine learning can and cannot todo）
+### 一个智能客服的例子
+当用户邮件反馈退货需求时，AI 系统可以根据用户的邮件内容判断是否是退货申请。但是如果根据不同的邮件内容返回不同的回复，就比较复杂，不太容易实现。
+![](https://raw.githubusercontent.com/tyronemaxi/ai_notes/master/ai_for_everyone/imgs/img_12.png)
+### 股价预测
+当前的股价市场的波动是多种因素造成的，不可能由模型训练得出
+![](https://raw.githubusercontent.com/tyronemaxi/ai_notes/master/ai_for_everyone/imgs/img_13.png)
+### 如何判断是否机器学习可以实现（what makes an ML problem easier）
+- 一秒法则（Learning a "simple" concept）
+- 是否有大量数据可用（Lots of data available）
 
+### 更多的例子
+- 自动驾驶
+![](https://raw.githubusercontent.com/tyronemaxi/ai_notes/master/ai_for_everyone/imgs/img_14.png)
 
+- X 射线胸透图判断患者是否患有肺炎
+![](https://raw.githubusercontent.com/tyronemaxi/ai_notes/master/ai_for_everyone/imgs/img_15.png)
 
+### 机器学习的优缺点（strengths and weaknessed of machine learning）
 
+机器学习擅长做：
+- Learning a simple concept
+- There is lots of data available
 
+机器学习不擅长：
+- learning complex concepts from small amounts of data
+- it is asked to perform on new types of data(使用不同类型的数据)
 
+## 深度学习的非技术型解释
+一个预估短袖的销量的 AI 模型：
 
+例如有四个输入：
+- price
+- shipping cost
+- marketing
+- material
 
+**价格 + 运费 -> 购买力**
 
+**价格 + 营销 + 原材料 -> 顾客对其质量的判断**
 
+**营销 -> 认知度**
 
+![](https://raw.githubusercontent.com/tyronemaxi/ai_notes/master/ai_for_everyone/imgs/img_16.png)
+神经网络的神奇之处就是在于当你使用神经网络构建一个机器学习系统时，你只需要给他输入 A 和 B 就可以了，它自己会把中间过程弄清楚。
 
-
-
-
-
-
-
+![](https://raw.githubusercontent.com/tyronemaxi/ai_notes/master/ai_for_everyone/imgs/img_17.png)
