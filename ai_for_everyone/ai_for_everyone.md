@@ -149,6 +149,7 @@ AI 实际上可以细分为两个独立的概念：
 - **制定一个人工智能策略（Develop an AI strategy）**
 - **保持内外沟通的一致, 包含从工程师到产品，投资人等等（Develop internal and external communications)**
 
+![](https://raw.githubusercontent.com/tyronemaxi/ai_notes/master/ai_for_everyone/imgs/img_11.png)
 
 
 
