@@ -1,7 +1,9 @@
 # AI For Everyone —— week2
-本文总结于吴恩达视频课程 《ai for everyone》 refs: https://www.coursera.org/learn/ai-for-everyone/home/week/1
+本文总结于吴恩达视频课程 《ai for everyone》 
 
-bilibili: https://www.bilibili.com/video/BV1yC4y127uj?vd_source=275f6919f1e622d67ac6c138d0967924&spm_id_from=333.788.player.switch&p=17 [toc]
+[课程传送门](https://www.coursera.org/learn/ai-for-everyone/home/week/1)
+
+[bilibili 中英文字幕](https://www.bilibili.com/video/BV1yC4y127uj?vd_source=275f6919f1e622d67ac6c138d0967924&spm_id_from=333.788.player.switch&p=17)
 
 ## 如何开展 AI 项目（Building AI projects）
 > - AI 项目的工作流程（Workflow of projects）
@@ -11,11 +13,11 @@ bilibili: https://www.bilibili.com/video/BV1yC4y127uj?vd_source=275f6919f1e622d6
 ## AI 项目的工作流（Workflow of projects）
 ### 语音助手
 我们用一个例子来说明该工作流，例如如何构建一个语音助手（smart speaker）
-- 1. collect data
+- collect data
 例如当收集到足够多的数据后，例如许多的语音数据。
-- 2. Train model
+- Train model
     Iterate many times until good enough（反复迭代）
-- 3. Deploy model
+- Deploy model
     Get data back（数据反馈）
     Maintain / update model（模型升级）
 
@@ -27,9 +29,9 @@ bilibili: https://www.bilibili.com/video/BV1yC4y127uj?vd_source=275f6919f1e622d6
 ## 数据科学项目的工作流（Data science workflow）
 ### 如何优化一个数据漏斗（Optimizing a sales funnel）
 分析用户行为，构建用户画像，能够帮助电商团队有针对的制定营销策略
-- 1. 收集数据（Collect data）
-- 2. 分析数据（反复迭代，提炼原理）(Analyze data && Iterate many times to get good insights)
-- 3. 提炼观点和做出行为（Suggest hypotheses/actions && Deploy changes && Re-annalyze new data）
+- 收集数据（Collect data）
+- 分析数据（反复迭代，提炼原理）(Analyze data && Iterate many times to get good insights)
+- 提炼观点和做出行为（Suggest hypotheses/actions && Deploy changes && Re-annalyze new data）
 
 ![](https://raw.githubusercontent.com/tyronemaxi/ai_notes/master/ai_for_everyone/imgs/img_20.png)
 ### 优化工厂流水线（Manufacturing line）
